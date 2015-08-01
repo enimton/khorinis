@@ -1,0 +1,1 @@
+k = khorinisK.registerFragment;
