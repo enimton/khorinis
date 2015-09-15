@@ -1,3 +1,7 @@
+## [DEPRECATED]
+
+I stopped using Khorinis for my projects. I switched to React + ES6 modules, they solve a lot of problems that Khorinis tried to solve. I will no longer update or improve Khorinis package.
+
 ## Khorinis — solid way to write Meteor applications
 
 1. [Intro](#intro)
